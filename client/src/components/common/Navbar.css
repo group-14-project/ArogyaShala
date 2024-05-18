@@ -1,0 +1,45 @@
+.mid-navbar-toolbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.call-btn{
+    border: #3C9A8D solid 2px!important;
+    color: #3C9A8D!important;
+}
+
+.mid-navbar-parent{
+    flex-grow: 1;
+} 
+
+.right-navbar-parent{
+    flex-grow: 1;
+} 
+
+.right-navbar{
+    background-color: white!important;
+    color: #9adfe4!important;
+    box-shadow: none!important;
+}
+
+.rgt-navbar-settings-btn{
+    color: #3C9A8D;
+}
+
+.rgt-navbar-notif-btn{
+    color: #3C9A8D;
+}
+
+.rgt-navbar-name{
+    color: #2f2f2f;
+}
+
+.rgt-navbar-view-label{
+    font-size: small!important;
+    color: #888888!important;
+}
+
+.profile-icon{
+    font-size: xxx-large!important;
+    color: #3C9A8D!important;
+}
